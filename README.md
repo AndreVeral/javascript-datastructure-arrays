@@ -1,0 +1,1 @@
+Declaração e manipulação de arrays. Detalhes em exercise6.
